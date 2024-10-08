@@ -1,11 +1,10 @@
-# Hello there, i am Leon 👋
+# Hello there, I am Leon 👋
 
 Applied computer science student and hobbyist programmer with a special interest in low level languages, especially Rust. I also have some basic knowledge of
-Java and C. 
+Java and C.
 
-- 🔭 Currently learning graphics development
-- 🌱 Long term goal: Writing a really small game completely from scratch
-- 💭 Also interested in: Cyber Security, Operating Systems, WebAssembly
+- 🔭 Currently learning C# and .NET
+- 💭 Also interested in: Cyber Security, Operating Systems, Cloud Services
 
 
 <!---
